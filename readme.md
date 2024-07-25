@@ -12,4 +12,5 @@ The objective of this assignment is to create a responsive website using media q
 + 1440px: Desktop
 
 ## Live Demo
-[Media Query Assignment](https://divyam-kumar-pandey.github.io/Media-Query-Assignment/)
+
+[Media Query Assignment](https://zeeshank261.github.io/Media-Query-Assignment/)
